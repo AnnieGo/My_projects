@@ -1,2 +1,2 @@
 # My_projects
-this repository contained my study projects
+this repository contain my study projects
